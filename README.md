@@ -1,40 +1,37 @@
-# Thomson - a sleek and Bootstrap portfolio template that highlights your work effectively.
-#### Preview
+# Merlin Joshi
 
- - [Demo](https://themewagon.github.io/thomson/)
+Assistant Professor, Department of Computer Science and Engineering
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/thomson/)
+## Portfolio
 
-## Getting Started
+**Live Website:** https://merlinjoshi123.github.io/portfolio-website/
 
-1. Clone Repository
-```
-git clone https://github.com/themewagon/thomson.git
-```
-2. Install Dependencies
-```
-npm i
-```
-3. Run the development server:
+## About
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+I am Merlin Joshi, an Assistant Professor in the Department of Computer
+Science and Engineering at St. Joseph Engineering College, Pala, Kerala,
+India, with 2 years of teaching experience.
 
-## Author 
-```
-Design and code is completely written by Themefisher and development team. 
-```
+## Skills
 
-## License
+-   C
+-   Python
+-   Java
+-   HTML
+-   CSS
+-   JavaScript
+-   SQL
+-   DBMS
+-   Artificial Intelligence
+-   Machine Learning
 
- - Design and Code is Copyright &copy; <a href="https://themefisher.com/" target="_blank">Themefisher</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+## Contact
+
+-   **Email:** personal-merlinjoshiputhenchirayil@gmail.com
+-   **Location:** Kottayam, Kerala, India
+
+## Technologies
+
+-   HTML5
+-   CSS3
+-   GitHub Pages
